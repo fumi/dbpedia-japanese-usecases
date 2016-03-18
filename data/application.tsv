@@ -1,24 +1,24 @@
-名前	作者	汎用or特定分野	分類	種類	関連イベント	URL
-QGISプラグイン PediaLayer	小池 隆	汎用	地理	Software plugin	LODチャレンジ2015 基盤技術部門	https://github.com/midoriit/PediaLayer
-なんでもリンク	古崎 晃司	汎用	ツール	Web	LODチャレンジ2015 基盤技術部門	http://link.lodosaka.jp
-ここペディア	合同会社 緑ＩＴ事務所 	汎用	地理	Android	LODチャレンジ2015 アプリケーション部門	https://play.google.com/store/apps/details?id=com.midoriit.kokopedia&hl=ja
-隣の町から町へ列島プチ横断クイズ	岡林 正史	汎用	ゲーム	Web	LODチャレンジ2015 アプリケーション部門	http://okabatu.github.io/lodc2015_trans/index.html
-大河配役	秋山 梓	特定分野	メディア	Web	LODチャレンジ2015 アプリケーション部門	http://gloria.ciao.jp/Taiga/Tree/
-放置自転車マップ	江上周作, 川村隆浩, 清雄一, 田原康之, 大須賀昭彦	特定分野	生活	Web	LODチャレンジ2015 アプリケーション部門	http://www.ohsuga.is.uec.ac.jp/bicycle/
-SakeLien：日本酒とワインをつなぐ	飯島照之, 川村隆浩, 清雄一, 田原康之, 大須賀昭彦	特定分野	生活	Android	LODチャレンジ2015 アプリケーション部門	https://deploygate.com/distributions/debe81c67b448221d37f37c8d2c20ec3fee25c2d
-WordPress Plugin	岡本 秀高	汎用	ツール	Software plugin	LODチャレンジ2015 アプリケーション部門	https://wordpress.org/plugins/dbpedia-details/
-MusicSPARQL	岡本 将貴, 藤井 章博	特定分野	音楽	Web	LODチャレンジ2014 アプリケーション部門	http://musicsparql.appspot.com
-ウィキ町史ビュアー	ハウモリ	特定分野	歴史	Web	LODチャレンジ2014 アプリケーション部門	http://cc-study.appspot.com/my-town-timeline
-SPARQL Timeliner	上田 洋	汎用	可視化	Web	LODチャレンジ2013 基盤技術部門	https://github.com/uedayou/SPARQLTimeliner, http://uedayou.net/SPARQLTimeliner/
-プロ野球因縁サーチ	窪田 文也	特定分野	スポーツ	Web	LODチャレンジ2013 アプリケーション部門	http://innen-search.com
-日本の大学	上田 洋	特定分野	教育	Web	LODチャレンジ2013 アプリケーション部門	http://uedayou.net/SPARQLTimeliner/view/?url=1385715471-802.json
-n次の隔たり		汎用	検索	Web	LODチャレンジ2013 アプリケーション部門	http://nzinohedatari.azurewebsites.net/
-DBpedia Japanese簡単サーチ	古崎 晃司	汎用	検索	Web	LODチャレンジ2013 アプリケーション部門	http://lodosaka.hozo.jp/EasyLOD/index_dbpedia_ja.html
-疾患コンパス	古崎 晃司	特定分野	医療	Web	LODチャレンジ2013 アプリケーション部門	http://lodc.med-ontology.jp/
-ハマ経クロニクル	杉浦裕樹, 川村隆浩, 長野伸一, 小林巌生	特定分野	メディア	Web	LODチャレンジ2013 アプリケーション部門	http://www.hamakei-opendata.com/chronicle/
-電子書籍リマインダー	山口琢, 小林龍生, 大場みち子	特定分野	書籍	Software plugin	LODチャレンジ2012 アプリケーション部門	http://pinpoint-reminder.appspot.com/epub-intro
-DashSearch LD	後藤 孝行	汎用	検索	Web	LODチャレンジ2011 アプリケーション部門	http://www.ahirulab.com/DashSearchSparql/ 
-Wikipedia Category Consistency Checker	吉岡 真治	汎用	ツール	Web		http://wnews.ist.hokudai.ac.jp/wc3jp
-LOD4ALL	富士通研究所	汎用	検索	Web		http://lod4all.net
-バイオミメティクス・オントロジーによるキーワード探索システム	古崎 晃司	特定分野	生物	Web		http://biomimetics.hozo.jp/
-東日本大震災アーカイブFukushima	東日本大震災アーカイブ福島協議会	特定分野	データベース	Web		http://fukushima.archive-disasters.jp
+名前	作者	汎用or特定分野	分類	種類	URL	関連イベント
+QGISプラグイン PediaLayer	小池 隆	汎用	地理	Software plugin	https://github.com/midoriit/PediaLayer	LODチャレンジ2015 基盤技術部門
+なんでもリンク	古崎 晃司	汎用	ツール	Web	http://link.lodosaka.jp	LODチャレンジ2015 基盤技術部門
+ここペディア	合同会社 緑ＩＴ事務所 	汎用	地理	Android	https://play.google.com/store/apps/details?id=com.midoriit.kokopedia&hl=ja	LODチャレンジ2015 アプリケーション部門
+隣の町から町へ列島プチ横断クイズ	岡林 正史	汎用	ゲーム	Web	http://okabatu.github.io/lodc2015_trans/index.html	LODチャレンジ2015 アプリケーション部門
+大河配役	秋山 梓	特定分野	メディア	Web	http://gloria.ciao.jp/Taiga/Tree/	LODチャレンジ2015 アプリケーション部門
+放置自転車マップ	江上周作, 川村隆浩, 清雄一, 田原康之, 大須賀昭彦	特定分野	生活	Web	http://www.ohsuga.is.uec.ac.jp/bicycle/	LODチャレンジ2015 アプリケーション部門
+SakeLien：日本酒とワインをつなぐ	飯島照之, 川村隆浩, 清雄一, 田原康之, 大須賀昭彦	特定分野	生活	Android	https://deploygate.com/distributions/debe81c67b448221d37f37c8d2c20ec3fee25c2d	LODチャレンジ2015 アプリケーション部門
+WordPress Plugin	岡本 秀高	汎用	ツール	Software plugin	https://wordpress.org/plugins/dbpedia-details/	LODチャレンジ2015 アプリケーション部門
+MusicSPARQL	岡本 将貴, 藤井 章博	特定分野	音楽	Web	http://musicsparql.appspot.com	LODチャレンジ2014 アプリケーション部門
+ウィキ町史ビュアー	ハウモリ	特定分野	歴史	Web	http://cc-study.appspot.com/my-town-timeline	LODチャレンジ2014 アプリケーション部門
+SPARQL Timeliner	上田 洋	汎用	可視化	Web	https://github.com/uedayou/SPARQLTimeliner, http://uedayou.net/SPARQLTimeliner/	LODチャレンジ2013 基盤技術部門
+プロ野球因縁サーチ	窪田 文也	特定分野	スポーツ	Web	http://innen-search.com	LODチャレンジ2013 アプリケーション部門
+日本の大学	上田 洋	特定分野	教育	Web	http://uedayou.net/SPARQLTimeliner/view/?url=1385715471-802.json	LODチャレンジ2013 アプリケーション部門
+n次の隔たり		汎用	検索	Web	http://nzinohedatari.azurewebsites.net/	LODチャレンジ2013 アプリケーション部門
+DBpedia Japanese簡単サーチ	古崎 晃司	汎用	検索	Web	http://lodosaka.hozo.jp/EasyLOD/index_dbpedia_ja.html	LODチャレンジ2013 アプリケーション部門
+疾患コンパス	古崎 晃司	特定分野	医療	Web	http://lodc.med-ontology.jp/	LODチャレンジ2013 アプリケーション部門
+ハマ経クロニクル	杉浦裕樹, 川村隆浩, 長野伸一, 小林巌生	特定分野	メディア	Web	http://www.hamakei-opendata.com/chronicle/	LODチャレンジ2013 アプリケーション部門
+電子書籍リマインダー	山口琢, 小林龍生, 大場みち子	特定分野	書籍	Software plugin	http://pinpoint-reminder.appspot.com/epub-intro	LODチャレンジ2012 アプリケーション部門
+DashSearch LD	後藤 孝行	汎用	検索	Web	http://www.ahirulab.com/DashSearchSparql/ 	LODチャレンジ2011 アプリケーション部門
+Wikipedia Category Consistency Checker	吉岡 真治	汎用	ツール	Web	http://wnews.ist.hokudai.ac.jp/wc3jp	
+LOD4ALL	富士通研究所	汎用	検索	Web	http://lod4all.net	
+バイオミメティクス・オントロジーによるキーワード探索システム	古崎 晃司	特定分野	生物	Web	http://biomimetics.hozo.jp/	
+東日本大震災アーカイブFukushima	東日本大震災アーカイブ福島協議会	特定分野	データベース	Web	http://fukushima.archive-disasters.jp	
