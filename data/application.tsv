@@ -1,12 +1,12 @@
-名前	作者	分野	分野分類	種類	URL	関連イベント	関連イベント部門
-QGISプラグイン PediaLayer	小池 隆	汎用	地理	プラグイン	https://github.com/midoriit/PediaLayer	LODチャレンジ2015	基盤技術部門
+名前	作者	対象	分野	種類	URL	関連イベント	関連イベント部門
+QGISプラグイン PediaLayer	小池 隆	汎用	地理	既存ソフトウェア連携	https://github.com/midoriit/PediaLayer	LODチャレンジ2015	基盤技術部門
 なんでもリンク	古崎 晃司	汎用	ツール	ウェブ	http://link.lodosaka.jp	LODチャレンジ2015	基盤技術部門
 ここペディア	合同会社 緑ＩＴ事務所 	汎用	地理	スマートフォン	https://play.google.com/store/apps/details?id=com.midoriit.kokopedia&hl=ja	LODチャレンジ2015	アプリケーション部門
 隣の町から町へ列島プチ横断クイズ	岡林 正史	汎用	ゲーム	ウェブ	http://okabatu.github.io/lodc2015_trans/index.html	LODチャレンジ2015	アプリケーション部門
 大河配役	秋山 梓	特定	メディア	ウェブ	http://gloria.ciao.jp/Taiga/Tree/	LODチャレンジ2015	アプリケーション部門
 放置自転車マップ	江上周作, 川村隆浩, 清雄一, 田原康之, 大須賀昭彦	特定	生活	ウェブ	http://www.ohsuga.is.uec.ac.jp/bicycle/	LODチャレンジ2015	アプリケーション部門
 SakeLien：日本酒とワインをつなぐ	飯島照之, 川村隆浩, 清雄一, 田原康之, 大須賀昭彦	特定	生活	スマートフォン	https://deploygate.com/distributions/debe81c67b448221d37f37c8d2c20ec3fee25c2d	LODチャレンジ2015	アプリケーション部門
-WordPress Plugin	岡本 秀高	汎用	ツール	プラグイン	https://wordpress.org/plugins/dbpedia-details/	LODチャレンジ2015	アプリケーション部門
+WordPress Plugin	岡本 秀高	汎用	ツール	既存ソフトウェア連携	https://wordpress.org/plugins/dbpedia-details/	LODチャレンジ2015	アプリケーション部門
 MusicSPARQL	岡本 将貴, 藤井 章博	特定	音楽	ウェブ	http://musicsparql.appspot.com	LODチャレンジ2014	アプリケーション部門
 ウィキ町史ビュアー	ハウモリ	特定	歴史	ウェブ	http://cc-study.appspot.com/my-town-timeline	LODチャレンジ2014	アプリケーション部門
 SPARQL Timeliner	上田 洋	汎用	可視化	ウェブ	https://github.com/uedayou/SPARQLTimeliner, http://uedayou.net/SPARQLTimeliner/	LODチャレンジ2013	基盤技術部門
@@ -16,7 +16,7 @@ n次の隔たり		汎用	検索	ウェブ	http://nzinohedatari.azurewebsites.net
 DBpedia Japanese簡単サーチ	古崎 晃司	汎用	検索	ウェブ	http://lodosaka.hozo.jp/EasyLOD/index_dbpedia_ja.html	LODチャレンジ2013	アプリケーション部門
 疾患コンパス	古崎 晃司	特定	医療	ウェブ	http://lodc.med-ontology.jp/	LODチャレンジ2013	アプリケーション部門
 ハマ経クロニクル	杉浦裕樹, 川村隆浩, 長野伸一, 小林巌生	特定	メディア	ウェブ	http://www.hamakei-opendata.com/chronicle/	LODチャレンジ2013	アプリケーション部門
-電子書籍リマインダー	山口琢, 小林龍生, 大場みち子	特定	書籍	プラグイン	http://pinpoint-reminder.appspot.com/epub-intro	LODチャレンジ2012	アプリケーション部門
+電子書籍リマインダー	山口琢, 小林龍生, 大場みち子	特定	書籍	既存ソフトウェア連携	http://pinpoint-reminder.appspot.com/epub-intro	LODチャレンジ2012	アプリケーション部門
 DashSearch LD	後藤 孝行	汎用	検索	ウェブ	http://www.ahirulab.com/DashSearchSparql/ 	LODチャレンジ2011	アプリケーション部門
 Wikipedia Category Consistency Checker	吉岡 真治	汎用	ツール	ウェブ	http://wnews.ist.hokudai.ac.jp/wc3jp		
 LOD4ALL	富士通研究所	汎用	検索	ウェブ	http://lod4all.net		
