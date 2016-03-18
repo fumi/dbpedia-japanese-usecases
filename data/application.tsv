@@ -15,7 +15,7 @@ SPARQL Timeliner	上田 洋	汎用	可視化	Web	LODチャレンジ2013 基盤�
 n次の隔たり		汎用	検索	Web	LODチャレンジ2013 アプリケーション部門	http://nzinohedatari.azurewebsites.net/
 DBpedia Japanese簡単サーチ	古崎 晃司	汎用	検索	Web	LODチャレンジ2013 アプリケーション部門	http://lodosaka.hozo.jp/EasyLOD/index_dbpedia_ja.html
 疾患コンパス	古崎 晃司	特定分野	医療	Web	LODチャレンジ2013 アプリケーション部門	http://lodc.med-ontology.jp/
-ハマ経クロニクル	杉浦裕樹, 川村隆浩, 長野伸一, 小林巌生			Web	LODチャレンジ2013 アプリケーション部門	http://www.hamakei-opendata.com/chronicle/
+ハマ経クロニクル	杉浦裕樹, 川村隆浩, 長野伸一, 小林巌生	特定分野	メディア	Web	LODチャレンジ2013 アプリケーション部門	http://www.hamakei-opendata.com/chronicle/
 電子書籍リマインダー	山口琢, 小林龍生, 大場みち子	特定分野	書籍	Software plugin	LODチャレンジ2012 アプリケーション部門	http://pinpoint-reminder.appspot.com/epub-intro
 DashSearch LD	後藤 孝行	汎用	検索	Web	LODチャレンジ2011 アプリケーション部門	http://www.ahirulab.com/DashSearchSparql/ 
 Wikipedia Category Consistency Checker	吉岡 真治	汎用	ツール	Web		http://wnews.ist.hokudai.ac.jp/wc3jp
