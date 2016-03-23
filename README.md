@@ -1,5 +1,5 @@
 # dbpedia-japanese-usecases
-Datasets for Usecases of DBpedia Japanese
+Datasets for Use cases of DBpedia Japanese
 
 [![DOI](https://zenodo.org/badge/doi/10.5281/zenodo.48151.svg)](http://dx.doi.org/10.5281/zenodo.48151)
 
