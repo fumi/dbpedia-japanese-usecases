@@ -1,25 +1,25 @@
 名前	作者	対象	分野	プラットフォーム	URL	LODチャレンジ年度	LODチャレンジ部門	LODチャレンジ賞
-QGISプラグイン PediaLayer	小池 隆	汎用	地理	ソフトウェア拡張	https://github.com/midoriit/PediaLayer	2015	基盤技術部門	2015 基盤技術部門 優秀賞
-なんでもリンク	古崎 晃司	汎用	ツール	ウェブ	http://link.lodosaka.jp	2015	基盤技術部門	
-ここペディア	合同会社 緑ＩＴ事務所 	汎用	地理	ウェブ	http://kokopedia.midoriit.com	2015	アプリケーション部門	
-隣の町から町へ列島プチ横断クイズ	岡林 正史	汎用	ゲーム	ウェブ	http://okabatu.github.io/lodc2015_trans/index.html	2015	アプリケーション部門	2015 アプリケーション部門 優秀賞
-大河配役	秋山 梓	特定	メディア	ウェブ	http://gloria.ciao.jp/Taiga/Tree/	2015	アプリケーション部門	2015 アプリケーション部門 最優秀賞
+QGISプラグイン PediaLayer	小池 隆	汎用	地理	ソフトウェア拡張	https://github.com/midoriit/PediaLayer	2015	基盤技術	2015 基盤技術部門 優秀賞
+なんでもリンク	古崎 晃司	汎用	ツール	ウェブ	http://link.lodosaka.jp	2015	基盤技術	
+ここペディア	合同会社 緑ＩＴ事務所 	汎用	地理	ウェブ	http://kokopedia.midoriit.com	2015	アプリケーション	
+隣の町から町へ列島プチ横断クイズ	岡林 正史	汎用	ゲーム	ウェブ	http://okabatu.github.io/lodc2015_trans/index.html	2015	アプリケーション	2015 アプリケーション部門 優秀賞
+大河配役	秋山 梓	特定	メディア	ウェブ	http://gloria.ciao.jp/Taiga/Tree/	2015	アプリケーション	2015 アプリケーション部門 最優秀賞
 放置自転車マップ	江上周作, 川村隆浩, 清雄一, 田原康之, 大須賀昭彦	特定	生活	ウェブ	http://www.ohsuga.is.uec.ac.jp/bicycle/	2015	アプリケーション部門	2015 データセット部門 最優秀賞
 SakeLien：日本酒とワインをつなぐ	飯島照之, 川村隆浩, 清雄一, 田原康之, 大須賀昭彦	特定	生活	スマートフォン	https://deploygate.com/distributions/debe81c67b448221d37f37c8d2c20ec3fee25c2d	2015	アプリケーション部門	
-WordPress Plugin	岡本 秀高	汎用	ツール	ソフトウェア拡張	https://wordpress.org/plugins/dbpedia-details/	2015	アプリケーション部門	
-MusicSPARQL	岡本 将貴, 藤井 章博	特定	音楽	ウェブ	http://musicsparql.appspot.com	2014	アプリケーション部門	2014 学生奨励賞（大学部門）
-ウィキ町史ビュアー	ハウモリ	特定	歴史	ウェブ	http://cc-study.appspot.com/my-town-timeline	2014	アプリケーション部門	2014 アイディア部門 最優秀賞
-SPARQL Timeliner	上田 洋, 小林巌生, 大林勇人, 東修作	汎用	可視化	ウェブ	https://github.com/uedayou/SPARQLTimeliner, http://uedayou.net/SPARQLTimeliner/	2013	基盤技術部門	2013 基盤技術部門 優秀賞, 2013 公益財団法人横浜市芸術文化振興財団賞
-LODLinker	藤本 椋也, 年岡 晃一	汎用	検索	ウェブ	http://lodlinker.org	2013	基盤技術部門	
+WordPress Plugin	岡本 秀高	汎用	ツール	ソフトウェア拡張	https://wordpress.org/plugins/dbpedia-details/	2015	アプリケーション	
+MusicSPARQL	岡本 将貴, 藤井 章博	特定	音楽	ウェブ	http://musicsparql.appspot.com	2014	アプリケーション	2014 学生奨励賞（大学部門）
+ウィキ町史ビュアー	ハウモリ	特定	歴史	ウェブ	http://cc-study.appspot.com/my-town-timeline	2014	アプリケーション部門	2014 アイディア 最優秀賞
+SPARQL Timeliner	上田 洋, 小林巌生, 大林勇人, 東修作	汎用	可視化	ウェブ	https://github.com/uedayou/SPARQLTimeliner, http://uedayou.net/SPARQLTimeliner/	2013	基盤技術	2013 基盤技術部門 優秀賞, 2013 公益財団法人横浜市芸術文化振興財団賞
+LODLinker	藤本 椋也, 年岡 晃一	汎用	検索	ウェブ	http://lodlinker.org	2013	基盤技術	
 プロ野球因縁サーチ	窪田 文也	特定	スポーツ	ウェブ	http://innen-search.com	2013	アプリケーション部門	
-日本の大学	上田 洋	特定	教育	ウェブ	http://uedayou.net/SPARQLTimeliner/view/?url=1385715471-802.json	2013	アプリケーション部門	
-n次の隔たり	高野 克己	汎用	検索	ウェブ	http://nzinohedatari.azurewebsites.net/	2013	アプリケーション部門	
-DBpedia Japanese簡単サーチ	古崎 晃司	汎用	検索	ウェブ	http://lodosaka.hozo.jp/EasyLOD/index_dbpedia_ja.html	2013	アプリケーション部門	
-疾患コンパス	古崎 晃司	特定	医療	ウェブ	http://lodc.med-ontology.jp/	2013	アプリケーション部門	2013 アプリケーション部門 優秀賞
-ハマ経クロニクル	杉浦裕樹, 川村隆浩, 長野伸一, 小林巌生	特定	メディア	ウェブ	http://www.hamakei-opendata.com/chronicle/	2013	アプリケーション部門	
-電子書籍リマインダー	山口琢, 小林龍生, 大場みち子	特定	書籍	ソフトウェア拡張	http://pinpoint-reminder.appspot.com/epub-intro	2012	アプリケーション部門	
-みんなで創る音声アシスタント「花之声」	川村 隆浩, 大須賀 昭彦	特定	生物	スマートフォン	http://www.ohsuga.is.uec.ac.jp/~kawamura/fv.html	2012	アプリケーション部門	2012 音声アシスタント賞
-DashSearch LD	後藤 孝行	汎用	検索	ウェブ	http://www.ahirulab.com/DashSearchSparql/ 	2011	アプリケーション部門	2011 ビジュアライゼーション賞
+日本の大学	上田 洋	特定	教育	ウェブ	http://uedayou.net/SPARQLTimeliner/view/?url=1385715471-802.json	2013	アプリケーション	
+n次の隔たり	高野 克己	汎用	検索	ウェブ	http://nzinohedatari.azurewebsites.net/	2013	アプリケーション	
+DBpedia Japanese簡単サーチ	古崎 晃司	汎用	検索	ウェブ	http://lodosaka.hozo.jp/EasyLOD/index_dbpedia_ja.html	2013	アプリケーション	
+疾患コンパス	古崎 晃司	特定	医療	ウェブ	http://lodc.med-ontology.jp/	2013	アプリケーション	2013 アプリケーション部門 優秀賞
+ハマ経クロニクル	杉浦裕樹, 川村隆浩, 長野伸一, 小林巌生	特定	メディア	ウェブ	http://www.hamakei-opendata.com/chronicle/	2013	アプリケーション	
+電子書籍リマインダー	山口琢, 小林龍生, 大場みち子	特定	書籍	ソフトウェア拡張	http://pinpoint-reminder.appspot.com/epub-intro	2012	アプリケーション	
+みんなで創る音声アシスタント「花之声」	川村 隆浩, 大須賀 昭彦	特定	生物	スマートフォン	http://www.ohsuga.is.uec.ac.jp/~kawamura/fv.html	2012	アプリケーション	2012 音声アシスタント賞
+DashSearch LD	後藤 孝行	汎用	検索	ウェブ	http://www.ahirulab.com/DashSearchSparql/ 	2011	アプリケーション	2011 ビジュアライゼーション賞
 Wikipedia Category Consistency Checker	吉岡 真治	汎用	ツール	ウェブ	http://wnews.ist.hokudai.ac.jp/wc3jp			
 LOD4ALL	富士通研究所	汎用	検索	ウェブ	http://lod4all.net			
 バイオミメティクス・オントロジーによるキーワード探索システム	古崎 晃司	特定	生物	ウェブ	http://biomimetics.hozo.jp/			
