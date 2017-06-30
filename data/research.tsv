@@ -1,66 +1,66 @@
 タイトル	著者	会議・出版	LODAC外	年度	年	月	URL	海外論文誌	国内論文誌	海外学会	国内研究報告	解説記事	書籍
 "オープンデータの最前線 - ""データのWeb""を実現するLODとDOI"	武田 英明	国立情報学研究所		2015	2016	3	http://www.nii.ac.jp/userdata/results/pr_data/NII_Today/71/all.pdf					1	
-Linked Dataセットに基づく日本酒-ワイン間の関連性抽出の試み	飯島 照之, 川村 隆浩, 清 雄一, 田原 康之, 大須賀 昭彦	第38回SWO研究会	◯	2015	2016	2	http://id.nii.ac.jp/1004/00000795/				1
-放置自転車問題解決に向けた循環型LOD構築システムの提案	江上 周作, 川村 隆浩, 清 雄一, 田原 康之, 大須賀 昭彦	第38回SWO研究会	◯	2015	2016	2	http://id.nii.ac.jp/1004/00000792/				1
-固有表現抽出を用いた文化財WebコンテンツのLOD化支援システムの開発	似内 勇太, 奥野 拓	第38回SWO研究会	◯	2015	2016	2	http://id.nii.ac.jp/1004/00000786/				1
-Linked Dataによる分野連携型データベースの枠組み	武田 英明, 加藤 文彦, 大向 一輝	第20回情報知識学フォーラム		2015	2015	12	https://www.jstage.jst.go.jp/article/jsik/25/4/25_2015_024/_article/-char/ja/				1
-日本語版WC3(Wikipedia Category Consistency Checker) -- 日本語版Wikipediaのカテゴリに所属するページのメタデータの一貫性の分析 --	吉岡 真治	第37回SWO研究会	◯	2015	2015	11	http://id.nii.ac.jp/1004/00000694/				1
+Linked Dataセットに基づく日本酒-ワイン間の関連性抽出の試み	飯島 照之, 川村 隆浩, 清 雄一, 田原 康之, 大須賀 昭彦	第38回SWO研究会	◯	2015	2016	2	http://id.nii.ac.jp/1004/00000795/				1		
+放置自転車問題解決に向けた循環型LOD構築システムの提案	江上 周作, 川村 隆浩, 清 雄一, 田原 康之, 大須賀 昭彦	第38回SWO研究会	◯	2015	2016	2	http://id.nii.ac.jp/1004/00000792/				1		
+固有表現抽出を用いた文化財WebコンテンツのLOD化支援システムの開発	似内 勇太, 奥野 拓	第38回SWO研究会	◯	2015	2016	2	http://id.nii.ac.jp/1004/00000786/				1		
+Linked Dataによる分野連携型データベースの枠組み	武田 英明, 加藤 文彦, 大向 一輝	第20回情報知識学フォーラム		2015	2015	12	https://www.jstage.jst.go.jp/article/jsik/25/4/25_2015_024/_article/-char/ja/				1		
+日本語版WC3(Wikipedia Category Consistency Checker) -- 日本語版Wikipediaのカテゴリに所属するページのメタデータの一貫性の分析 --	吉岡 真治	第37回SWO研究会	◯	2015	2015	11	http://id.nii.ac.jp/1004/00000694/				1		
 オープンデータ時代の標準Web API SPARQL	加藤 文彦, 川島 秀一, 岡別府 陽子, 山本 泰智, 片山 俊明	インプレスR&D		2015	2015	11	http://sparqlbook.jp						1
-Knowledge Structuring and Reuse System Using RDF for Supporting Scenario Generation	Teruaki Hayashi, Yukio Ohsawa	KES2015	◯	2015	2015	9	http://www.sciencedirect.com/science/article/pii/S1877050915023601			1
-Linked DataとWebアーキテクチャ : DBpedia Japaneseを例に	加藤 文彦	人工知能学会誌		2015	2015	9	http://www.ai-gakkai.or.jp/vol30_no5/					1
-オープンデータ普及促進に向けた国内行政機関の取組み	浅野 優	人工知能学会誌		2015	2015	9	http://www.ai-gakkai.or.jp/vol30_no5/					1
-Generating Quizzes for History Learning Based on Wikipedia Articles	Yoshihiro Tamura, Yutaka Takase, Yuki Hayashi, Yukiko I. Nakano	LCT2015	◯	2015	2015	7	http://link.springer.com/chapter/10.1007/978-3-319-20609-7_32			1
-J-GLOBAL knowledge: 大規模科学技術情報に関するLinked Open Dataの構築	木村 考宏, 川村 隆浩, 渡邊 勝太郎, 松本 尚也, 佐藤 智宣, 櫛田 達矢, 松邑 勝治	第36回SWO研究会	◯	2015	2015	7	https://sites.google.com/site/sigswo15/papers/36program				1
-Linked Open Dataを用いた生物規範工学オントロジーの大規模化の試行	多田 恭平, 古崎 晃司, 來村 徳信, 溝口 理一郎, 駒谷 和範	第36回SWO研究会	◯	2015	2015	7	https://sites.google.com/site/sigswo15/papers/36program				1
-DBpedia データセットを用いたステークホルダー表出とシナリオにおける関係推定	早矢仕 晃章, 大澤 幸生	第36回SWO研究会	◯	2015	2015	7	https://sites.google.com/site/sigswo15/papers/36program				1
-日本語DBpedia における SPARQL クエリログの分析	濱崎 雅弘, 加藤 文彦	第36回SWO研究会		2015	2015	7	https://sites.google.com/site/sigswo15/papers/36program				1
-BOMエージェントの実現に向けたLODの構築	江上 周作, 川村 隆浩, 藤井 章博, 大須賀 昭彦	電子情報通信学会論文誌 D	◯	2015	2015	6	http://search.ieice.org/bin/summary_advpub.php?id=2014SWP0019&category=D&lang=J&abst=		1
-E1675 - NDLにおけるLODの作成と試行提供：ISILを対象として	福山 樹里	カレントアウェアネス	◯	2015	2015	5	http://current.ndl.go.jp/e1675					1
-Linked Open Data のためのSPARQLクエリ共有システムの提案	濱崎 雅弘	JSAI2015		2015	2015	5	https://kaigi.org/jsai/webprogram/2015/paper-982.html				1
-Open Park Yokohama: 公園LODの試作	加藤 文彦, 武田 英明	JSAI2015		2015	2015	5	https://kaigi.org/jsai/webprogram/2015/paper-94.html				1
-DBPediaの情報に基づくWikipediaのカテゴリ情報の一貫性の分析	吉岡 真治, Loban Rhett	JSAI2015	◯	2015	2015	5	https://kaigi.org/jsai/webprogram/2015/paper-467.html				1
-日本語版 DBpedia によるアノテーションを介した要求と解決策䛾意味的関係䛾可視化	張 确軒, 早矢仕 晃章, 大澤 幸生	JSAI2015	◯	2015	2015	5	https://kaigi.org/jsai/webprogram/2015/paper-983.html				1
-概念間の関係に注目した専門文書解析と LOD 技術によるバイオミメティクス・オントロジーの大規模化の試み	多田 恭平, 古崎 晃司, 來村 徳信, 溝口 理一郎, 駒谷 和範	JSAI2015	◯	2015	2015	5	https://kaigi.org/jsai/webprogram/2015/paper-876.html				1
-Wikipediaを用いた質問応答と多肢選択問題による歴史学習	田村 吉宏, 鶴崎 泰斗, 高瀬 裕, 中野 有紀子	JSAI2015	◯	2015	2015	5	https://kaigi.org/jsai/webprogram/2015/paper-769.html				1
-Wikipediaを用いた選択肢付き問題の生成手法	田村 吉宏, 高瀬 裕, 中野 有紀子	情報処理学会第77回全国大会	◯	2014	2015	3	https://ipsj.ixsq.nii.ac.jp/ej/?action=pages_view_main&active_action=repository_view_main_item_detail&item_id=144074&item_no=1&page_id=13&block_id=8				1
-オープンデータのLOD化におけるボキャブラリ選定支援	鵜飼孝典, 山根昇平	情報処理学会第77回全国大会	◯	2014	2015	3	https://ipsj.ixsq.nii.ac.jp/ej/?action=pages_view_main&active_action=repository_view_main_item_detail&item_id=144003&item_no=1&page_id=13&block_id=8				1
-Building of Industrial Parts LOD for EDI - A Case Study -	Shusaku Egami, Takahiro Kawamura, Akihiro Fujii, Akihiko Ohsuga	JIST2014	◯	2014	2015	2	http://link.springer.com/chapter/10.1007/978-3-319-15615-6_11			1
-Link Scientific Publications using Linked Data	Qingliang Miao, Yao Meng, Lu Fang, Fumihito Nishino and Nobuyuki Igata	IEEE ICSC 2015	◯	2014	2015	2	http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=7050818			1
-Linked Data統合に向けたLiteral値マッチング手法の提案	川村 隆浩, 長野 伸一, 大須賀 昭彦	人工知能学会論文誌	◯	2014	2015	1	https://www.jstage.jst.go.jp/article/tjsai/30/2/30_30_440/_article/-char/ja/		1
-固有表現抽出を用いた歴史コンテンツのLOD化支援	似内 勇太, 奥野 拓	じんもんこん2014	◯	2014	2014	12					1
-放送コンテンツアーカイブのためのメタデータモデル構築	萩原 和樹, 三原 鉄也, 永森 光晴, 杉本 重雄	情報基礎とアクセス技術(IFAT)	◯	2014	2014	11	https://ipsj.ixsq.nii.ac.jp/ej/?action=pages_view_main&active_action=repository_view_main_item_detail&item_id=106488&item_no=1&page_id=13&block_id=8				1
-IMAGE-BASED LITERAL NODE MATCHING FOR LINKED DATA INTEGRATION	Takahiro Kawamura, Akihiko Ohsuga	International Journal of Web & Semantic Technology	◯	2014	2014	10	http://www.airccse.org/journal/ijwest/current2014.html	1
-Image-inspired Approach of Literal Node Identification in Linked Open Data	Takahiro Kawamura, Shinichi Nagano, Akihiko Ohsuga	IMETI 2014	◯	2014	2014	10	http://www.iiis.org/CDs2014/CD2014SCI/IMETI_2014/index.asp?id=0&area=4			1
-番組情報データベースのLOD化の検討	宮崎勝, 浦川真, 山田一郎, 三浦菊佳, 住吉英樹, 藤沢寛, 中川俊夫	第34回SWO研究会	◯	2014	2014	10	http://sigswo.org/A1402_program.htm				1
-オープンデータのLinked Dataへの変換 ～ボキャブラリ統一とリンク付与の自動化～	山根昇平, 鵜飼孝典	第34回SWO研究会	◯	2014	2014	10	http://sigswo.org/A1402_program.htm				1
-Literal Node Matching Based on Image Features toward Linked Data Integration	Takahiro Kawamura, Shinichi Nagano, Akihiko Ohsuga	AMT2014	◯	2014	2014	8	http://link.springer.com/chapter/10.1007%2F978-3-319-09912-5_15			1
-RDF 化した MeSH とライフサイエンス辞書を利用した生命 科学概念に基づく日本語レビュー記事の絞り込み検索	山本泰智	第33回SWO研究会	◯	2014	2014	8	http://sigswo.org/A1401_program.htm				1
-「地球環境学リポジトリ」－セマンティック技術による研究資源の異分野連携	関野 樹, 原 正一郎, 近藤 康久, 窪田 順平, 秋道 智彌	情報処理学会人文科学とコンピュータ	◯	2014	2014	7	https://ipsj.ixsq.nii.ac.jp/ej/?action=pages_view_main&active_action=repository_view_main_item_detail&item_id=102473&item_no=1&page_id=13&block_id=8				1
-大規模RDFグラフのための効率的なクエリ解決	藤原 浩司, 兼岩 憲	人工知能学会論文誌	◯	2014	2014	6	https://www.jstage.jst.go.jp/A_PRedirectJournalInit/-char/ja/?sryCd=tjsai&noVol=29&noIssue=4&kijiCd=29_29_364&screenID=AF06S010		1
-LODを対象としたユーザ参加型質問応答サービスの開発 ～ユーザフィードバックによる精度向上とコンテキスト自動登録手法の評価～	川村 隆浩, 大須賀 昭彦	人工知能学会論文誌	◯	2014	2014	6	https://www.jstage.jst.go.jp/A_PRedirectJournalInit/-char/ja/?sryCd=tjsai&noVol=29&noIssue=4&kijiCd=29_29_375&screenID=AF06S010		1
-大規模Linked Open Dataのための日本語語彙の構築	玉川 奨, 香川 宏介, 森田 武史, 山口 高平	人工知能学会論文誌	◯	2014	2014	6	https://www.jstage.jst.go.jp/A_PRedirectJournalInit/-char/ja/?sryCd=tjsai&noVol=29&noIssue=4&kijiCd=29_29_386&screenID=AF06S010		1
-ArtFinder: A faceted browser for cross-cultural art discovery	Matt Thompson, Steve Battle, Julian Padget, Hideaki Takeda	HSWI2014		2014	2014	5	http://hswi.referata.com/wiki/HSWI2014			1
-地域メディア情報を活用したLinked Dataサービスの試作評価	長野 伸一, 川村 隆浩, 小林 巌生, 杉浦 裕樹	JSAI2014	◯	2014	2014	5	https://kaigi.org/jsai/webprogram/2014/paper-288.html				1
-日本語Linked Data Cloudの現状	加藤 文彦, 武田 英明, 小出 誠二, 大向 一輝	JSAI2014		2014	2014	5	https://kaigi.org/jsai/webprogram/2014/paper-143.html				1
-オントロジーとLinked Dataに基づくバイオミメティック・データベースの構築	古崎 晃司, 多田 恭平, 來村 徳信, 溝口 理一郎	JSAI2014	◯	2014	2014	5	https://kaigi.org/jsai/webprogram/2014/paper-510.html				1
-専門文書と Linked Open Data を用いたバイオミメティクス・オントロジー の大規模化の試み	多田 恭平, 古崎 晃司, 來村 徳信, 溝口 理一郎	JSAI2014	◯	2014	2014	5	https://kaigi.org/jsai/webprogram/2014/paper-630.html				1
-Linked Open Dataを用いた類推型発想支援WEBアプリケーションの開発	松尾秀行, 山岡俊樹	情報処理学会第76回全国大会講演論文集	◯	2013	2014	3	https://ipsj.ixsq.nii.ac.jp/ej/?action=pages_view_main&active_action=repository_view_main_item_detail&item_id=104545&item_no=1&page_id=13&block_id=8				1
-LODの画像的特徴に基づくLiteral値名寄せ手法の提案	川村 隆浩, 長野 伸一, 大須賀 昭彦	第32回SWO研究会	◯	2013	2014	3	http://sigswo.org/A1303_program.htm				1
-Linked Open Data を活用した電子書籍に関する研究	宮田 惇平, 清水 宏泰, 藤井 章博	情報処理学会コンピュータセキュリティ / マルチメディア通信と分散処理	◯	2013	2014	2	https://ipsj.ixsq.nii.ac.jp/ej/?action=pages_view_main&active_action=repository_view_main_item_detail&item_id=98834&item_no=1&page_id=13&block_id=8				1
-Building DBpedia Japanese and Linked Data Cloud in Japanese	Fumihiro Kato, Hideaki Takeda, Seiji Koide, Ikki Ohmukai	LDPW2013		2013	2013	11	http://ceur-ws.org/Vol-1192/			1
-EDI support with LOD	Akihiro FUJII, Shusaku EGAMI, Hiroyasu SHIMIZU	LDPW2013	◯	2013	2013	11	http://ceur-ws.org/Vol-1192/			1
-RDF データベースを対象としたデータ分析支援ツールの提案	田代 航一, 高間 康史	人工知能学会第5回インタラクティブ 情報アクセスと可視化マイニング研究会	◯	2013	2013	10	http://must.c.u-tokyo.ac.jp/sigam/hiki.cgi?%C2%E8%A3%B5%B2%F3%B8%A6%B5%E6%B2%F1%A5%D7%A5%ED%A5%B0%A5%E9%A5%E0				1
-RDFization of Japanese Electronic Dictionaries and LOD	Seiji Koide, Hideaki Takeda	LDL2013		2013	2013	9	http://ldl2013.org/program.html			1
-Identification of works of manga using LOD resources: an experimental FRBRization of bibliographic data of comic books	Wenling He, Tetsuya Mihara, Mitsuharu Nagamori, Shigeo Sugimoto	13th ACM/IEEE-CS joint conference on Digital libraries	◯	2013	2013	7	http://dl.acm.org/citation.cfm?id=2467731			1
-日本語WordNetとIPAdic辞書のRDF化とDBpediaリンク	小出 誠二, 武田 英明, 加藤 文彦, 大向 一輝	JSAI2013		2013	2013	6	https://kaigi.org/jsai/webprogram/2013/paper-720.html				1
-日本語WikipediaオントロジーのLinked Open Dataへの取り組み	玉川 奨, 香川 宏介, 森田 武史, 山口 高平	JSAI2013	◯	2013	2013	6	https://kaigi.org/jsai/webprogram/2013/paper-496.html				1
-FLOWER VOICE: VIRTUAL ASSISTANT FOR OPEN DATA	Takahiro Kawamura, Akihiko Ohsuga	International Journal of Web & Semantic Technology (IJWesT)	◯	2013	2013	4	http://www.airccse.org/journal/ijwest/current2013.html	1
-マンガの配列基準としてのWikipediaカテゴリの分析	小平優衣, 三原鉄也, 永森光晴, 杉本重雄	第44回ディジタル図書館ワークショップ	◯	2012	2013	3	http://dl-net.blogspot.jp/2013/02/44.html				1
-DBpediaを利用したマンガの書誌データからの Workの同定	カブンリン, 三原鉄也, 永森光晴, 杉本重雄	第44回ディジタル図書館ワークショップ	◯	2012	2013	3	http://dl-net.blogspot.jp/2013/02/44.html				1
-日本語Wikipediaオントロジーの構築と利用	玉川 奨, 香川 宏介, 森田 武史, 山口 高平	第29回SWO研究会	◯	2012	2013	3	http://sigswo.org/A1203_program.htm				1
-花之声：オープンデータを用いたユーザ参加型音声アシスタントの開発	川村 隆浩, 大須賀 昭彦	第29回SWO研究会	◯	2012	2013	3	http://sigswo.org/A1203_program.htm				1
-Creating an Extended Named Entity Dictionary from Wikipedia	Ryuichiro Higashinaka, Kugatsu Sadamitsu, Kuniko Saito, Toshiro Makino, Yoshihiro Matsuo	COLING2012	◯	2012	2012	12	https://aclweb.org/anthology/C/C12/			1
-DashSearch LD: Exploratory Search for Linked Data	Takayuki Goto, Hideaki Takeda, Masahiro Hamasaki	JIST2012		2012	2012	12	http://link.springer.com/chapter/10.1007/978-3-642-37996-3_26			1
-リポジトリシステムを利用した先祖由緒并一類附帳データベースの構築	林 正治, 堀井 洋, 堀井 美里, 宮下 和幸, 中野 節子, 山地 一禎, 高田 良宏	じんもんこん2012	◯	2012	2012	11	https://ipsj.ixsq.nii.ac.jp/ej/?action=pages_view_main&active_action=repository_view_main_item_detail&item_id=87042&item_no=1&page_id=13&block_id=8				1
-Producing and Consuming Linked Open Data on Art with a Local Community	Fuyuko Matsumura, Iwao Kobayashi, Fumihiro Kato, Tetsuro Kamura, Ikki Ohmukai, Hideaki Takeda,	COLD2012		2012	2012	11	https://km.aifb.kit.edu/ws/cold2012/			1
-落語家 LOD —名跡と人物の関係を表現するデータモデル—	本間維, 永森光晴	第28回SWO研究会	◯	2012	2012	10	http://sigswo.org/A1202_program.htm				1
+Knowledge Structuring and Reuse System Using RDF for Supporting Scenario Generation	Teruaki Hayashi, Yukio Ohsawa	KES2015	◯	2015	2015	9	http://www.sciencedirect.com/science/article/pii/S1877050915023601			1			
+Linked DataとWebアーキテクチャ : DBpedia Japaneseを例に	加藤 文彦	人工知能学会誌		2015	2015	9	http://www.ai-gakkai.or.jp/vol30_no5/					1	
+オープンデータ普及促進に向けた国内行政機関の取組み	浅野 優	人工知能学会誌		2015	2015	9	http://www.ai-gakkai.or.jp/vol30_no5/					1	
+Generating Quizzes for History Learning Based on Wikipedia Articles	Yoshihiro Tamura, Yutaka Takase, Yuki Hayashi, Yukiko I. Nakano	LCT2015	◯	2015	2015	7	http://link.springer.com/chapter/10.1007/978-3-319-20609-7_32			1			
+J-GLOBAL knowledge: 大規模科学技術情報に関するLinked Open Dataの構築	木村 考宏, 川村 隆浩, 渡邊 勝太郎, 松本 尚也, 佐藤 智宣, 櫛田 達矢, 松邑 勝治	第36回SWO研究会	◯	2015	2015	7	https://sites.google.com/site/sigswo15/papers/36program				1		
+Linked Open Dataを用いた生物規範工学オントロジーの大規模化の試行	多田 恭平, 古崎 晃司, 來村 徳信, 溝口 理一郎, 駒谷 和範	第36回SWO研究会	◯	2015	2015	7	https://sites.google.com/site/sigswo15/papers/36program				1		
+DBpedia データセットを用いたステークホルダー表出とシナリオにおける関係推定	早矢仕 晃章, 大澤 幸生	第36回SWO研究会	◯	2015	2015	7	https://sites.google.com/site/sigswo15/papers/36program				1		
+日本語DBpedia における SPARQL クエリログの分析	濱崎 雅弘, 加藤 文彦	第36回SWO研究会		2015	2015	7	https://sites.google.com/site/sigswo15/papers/36program				1		
+BOMエージェントの実現に向けたLODの構築	江上 周作, 川村 隆浩, 藤井 章博, 大須賀 昭彦	電子情報通信学会論文誌 D	◯	2015	2015	6	http://search.ieice.org/bin/summary_advpub.php?id=2014SWP0019&category=D&lang=J&abst=		1				
+E1675 - NDLにおけるLODの作成と試行提供：ISILを対象として	福山 樹里	カレントアウェアネス	◯	2015	2015	5	http://current.ndl.go.jp/e1675					1	
+Linked Open Data のためのSPARQLクエリ共有システムの提案	濱崎 雅弘	JSAI2015		2015	2015	5	https://kaigi.org/jsai/webprogram/2015/paper-982.html				1		
+Open Park Yokohama: 公園LODの試作	加藤 文彦, 武田 英明	JSAI2015		2015	2015	5	https://kaigi.org/jsai/webprogram/2015/paper-94.html				1		
+DBPediaの情報に基づくWikipediaのカテゴリ情報の一貫性の分析	吉岡 真治, Loban Rhett	JSAI2015	◯	2015	2015	5	https://kaigi.org/jsai/webprogram/2015/paper-467.html				1		
+日本語版 DBpedia によるアノテーションを介した要求と解決策䛾意味的関係䛾可視化	張 确軒, 早矢仕 晃章, 大澤 幸生	JSAI2015	◯	2015	2015	5	https://kaigi.org/jsai/webprogram/2015/paper-983.html				1		
+概念間の関係に注目した専門文書解析と LOD 技術によるバイオミメティクス・オントロジーの大規模化の試み	多田 恭平, 古崎 晃司, 來村 徳信, 溝口 理一郎, 駒谷 和範	JSAI2015	◯	2015	2015	5	https://kaigi.org/jsai/webprogram/2015/paper-876.html				1		
+Wikipediaを用いた質問応答と多肢選択問題による歴史学習	田村 吉宏, 鶴崎 泰斗, 高瀬 裕, 中野 有紀子	JSAI2015	◯	2015	2015	5	https://kaigi.org/jsai/webprogram/2015/paper-769.html				1		
+Wikipediaを用いた選択肢付き問題の生成手法	田村 吉宏, 高瀬 裕, 中野 有紀子	情報処理学会第77回全国大会	◯	2014	2015	3	https://ipsj.ixsq.nii.ac.jp/ej/?action=pages_view_main&active_action=repository_view_main_item_detail&item_id=144074&item_no=1&page_id=13&block_id=8				1		
+オープンデータのLOD化におけるボキャブラリ選定支援	鵜飼孝典, 山根昇平	情報処理学会第77回全国大会	◯	2014	2015	3	https://ipsj.ixsq.nii.ac.jp/ej/?action=pages_view_main&active_action=repository_view_main_item_detail&item_id=144003&item_no=1&page_id=13&block_id=8				1		
+Building of Industrial Parts LOD for EDI - A Case Study -	Shusaku Egami, Takahiro Kawamura, Akihiro Fujii, Akihiko Ohsuga	JIST2014	◯	2014	2015	2	http://link.springer.com/chapter/10.1007/978-3-319-15615-6_11			1			
+Link Scientific Publications using Linked Data	Qingliang Miao, Yao Meng, Lu Fang, Fumihito Nishino and Nobuyuki Igata	IEEE ICSC 2015	◯	2014	2015	2	http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=7050818			1			
+Linked Data統合に向けたLiteral値マッチング手法の提案	川村 隆浩, 長野 伸一, 大須賀 昭彦	人工知能学会論文誌	◯	2014	2015	1	https://www.jstage.jst.go.jp/article/tjsai/30/2/30_30_440/_article/-char/ja/		1				
+固有表現抽出を用いた歴史コンテンツのLOD化支援	似内 勇太, 奥野 拓	じんもんこん2014	◯	2014	2014	12					1		
+放送コンテンツアーカイブのためのメタデータモデル構築	萩原 和樹, 三原 鉄也, 永森 光晴, 杉本 重雄	情報基礎とアクセス技術(IFAT)	◯	2014	2014	11	https://ipsj.ixsq.nii.ac.jp/ej/?action=pages_view_main&active_action=repository_view_main_item_detail&item_id=106488&item_no=1&page_id=13&block_id=8				1		
+IMAGE-BASED LITERAL NODE MATCHING FOR LINKED DATA INTEGRATION	Takahiro Kawamura, Akihiko Ohsuga	International Journal of Web & Semantic Technology	◯	2014	2014	10	http://www.airccse.org/journal/ijwest/current2014.html	1					
+Image-inspired Approach of Literal Node Identification in Linked Open Data	Takahiro Kawamura, Shinichi Nagano, Akihiko Ohsuga	IMETI 2014	◯	2014	2014	10	http://www.iiis.org/CDs2014/CD2014SCI/IMETI_2014/index.asp?id=0&area=4			1			
+番組情報データベースのLOD化の検討	宮崎勝, 浦川真, 山田一郎, 三浦菊佳, 住吉英樹, 藤沢寛, 中川俊夫	第34回SWO研究会	◯	2014	2014	10	http://sigswo.org/A1402_program.htm				1		
+オープンデータのLinked Dataへの変換 ～ボキャブラリ統一とリンク付与の自動化～	山根昇平, 鵜飼孝典	第34回SWO研究会	◯	2014	2014	10	http://sigswo.org/A1402_program.htm				1		
+Literal Node Matching Based on Image Features toward Linked Data Integration	Takahiro Kawamura, Shinichi Nagano, Akihiko Ohsuga	AMT2014	◯	2014	2014	8	http://link.springer.com/chapter/10.1007%2F978-3-319-09912-5_15			1			
+RDF 化した MeSH とライフサイエンス辞書を利用した生命 科学概念に基づく日本語レビュー記事の絞り込み検索	山本泰智	第33回SWO研究会	◯	2014	2014	8	http://sigswo.org/A1401_program.htm				1		
+「地球環境学リポジトリ」－セマンティック技術による研究資源の異分野連携	関野 樹, 原 正一郎, 近藤 康久, 窪田 順平, 秋道 智彌	情報処理学会人文科学とコンピュータ	◯	2014	2014	7	https://ipsj.ixsq.nii.ac.jp/ej/?action=pages_view_main&active_action=repository_view_main_item_detail&item_id=102473&item_no=1&page_id=13&block_id=8				1		
+大規模RDFグラフのための効率的なクエリ解決	藤原 浩司, 兼岩 憲	人工知能学会論文誌	◯	2014	2014	6	https://www.jstage.jst.go.jp/A_PRedirectJournalInit/-char/ja/?sryCd=tjsai&noVol=29&noIssue=4&kijiCd=29_29_364&screenID=AF06S010		1				
+LODを対象としたユーザ参加型質問応答サービスの開発 ～ユーザフィードバックによる精度向上とコンテキスト自動登録手法の評価～	川村 隆浩, 大須賀 昭彦	人工知能学会論文誌	◯	2014	2014	6	https://www.jstage.jst.go.jp/A_PRedirectJournalInit/-char/ja/?sryCd=tjsai&noVol=29&noIssue=4&kijiCd=29_29_375&screenID=AF06S010		1				
+大規模Linked Open Dataのための日本語語彙の構築	玉川 奨, 香川 宏介, 森田 武史, 山口 高平	人工知能学会論文誌	◯	2014	2014	6	https://www.jstage.jst.go.jp/A_PRedirectJournalInit/-char/ja/?sryCd=tjsai&noVol=29&noIssue=4&kijiCd=29_29_386&screenID=AF06S010		1				
+ArtFinder: A faceted browser for cross-cultural art discovery	Matt Thompson, Steve Battle, Julian Padget, Hideaki Takeda	HSWI2014		2014	2014	5	http://hswi.referata.com/wiki/HSWI2014			1			
+地域メディア情報を活用したLinked Dataサービスの試作評価	長野 伸一, 川村 隆浩, 小林 巌生, 杉浦 裕樹	JSAI2014	◯	2014	2014	5	https://kaigi.org/jsai/webprogram/2014/paper-288.html				1		
+日本語Linked Data Cloudの現状	加藤 文彦, 武田 英明, 小出 誠二, 大向 一輝	JSAI2014		2014	2014	5	https://kaigi.org/jsai/webprogram/2014/paper-143.html				1		
+オントロジーとLinked Dataに基づくバイオミメティック・データベースの構築	古崎 晃司, 多田 恭平, 來村 徳信, 溝口 理一郎	JSAI2014	◯	2014	2014	5	https://kaigi.org/jsai/webprogram/2014/paper-510.html				1		
+専門文書と Linked Open Data を用いたバイオミメティクス・オントロジー の大規模化の試み	多田 恭平, 古崎 晃司, 來村 徳信, 溝口 理一郎	JSAI2014	◯	2014	2014	5	https://kaigi.org/jsai/webprogram/2014/paper-630.html				1		
+Linked Open Dataを用いた類推型発想支援WEBアプリケーションの開発	松尾秀行, 山岡俊樹	情報処理学会第76回全国大会講演論文集	◯	2013	2014	3	https://ipsj.ixsq.nii.ac.jp/ej/?action=pages_view_main&active_action=repository_view_main_item_detail&item_id=104545&item_no=1&page_id=13&block_id=8				1		
+LODの画像的特徴に基づくLiteral値名寄せ手法の提案	川村 隆浩, 長野 伸一, 大須賀 昭彦	第32回SWO研究会	◯	2013	2014	3	http://sigswo.org/A1303_program.htm				1		
+Linked Open Data を活用した電子書籍に関する研究	宮田 惇平, 清水 宏泰, 藤井 章博	情報処理学会コンピュータセキュリティ / マルチメディア通信と分散処理	◯	2013	2014	2	https://ipsj.ixsq.nii.ac.jp/ej/?action=pages_view_main&active_action=repository_view_main_item_detail&item_id=98834&item_no=1&page_id=13&block_id=8				1		
+Building DBpedia Japanese and Linked Data Cloud in Japanese	Fumihiro Kato, Hideaki Takeda, Seiji Koide, Ikki Ohmukai	LDPW2013		2013	2013	11	http://ceur-ws.org/Vol-1192/			1			
+EDI support with LOD	Akihiro FUJII, Shusaku EGAMI, Hiroyasu SHIMIZU	LDPW2013	◯	2013	2013	11	http://ceur-ws.org/Vol-1192/			1			
+RDF データベースを対象としたデータ分析支援ツールの提案	田代 航一, 高間 康史	人工知能学会第5回インタラクティブ 情報アクセスと可視化マイニング研究会	◯	2013	2013	10	http://must.c.u-tokyo.ac.jp/sigam/hiki.cgi?%C2%E8%A3%B5%B2%F3%B8%A6%B5%E6%B2%F1%A5%D7%A5%ED%A5%B0%A5%E9%A5%E0				1		
+RDFization of Japanese Electronic Dictionaries and LOD	Seiji Koide, Hideaki Takeda	LDL2013		2013	2013	9	http://ldl2013.org/program.html			1			
+Identification of works of manga using LOD resources: an experimental FRBRization of bibliographic data of comic books	Wenling He, Tetsuya Mihara, Mitsuharu Nagamori, Shigeo Sugimoto	13th ACM/IEEE-CS joint conference on Digital libraries	◯	2013	2013	7	http://dl.acm.org/citation.cfm?id=2467731			1			
+日本語WordNetとIPAdic辞書のRDF化とDBpediaリンク	小出 誠二, 武田 英明, 加藤 文彦, 大向 一輝	JSAI2013		2013	2013	6	https://kaigi.org/jsai/webprogram/2013/paper-720.html				1		
+日本語WikipediaオントロジーのLinked Open Dataへの取り組み	玉川 奨, 香川 宏介, 森田 武史, 山口 高平	JSAI2013	◯	2013	2013	6	https://kaigi.org/jsai/webprogram/2013/paper-496.html				1		
+FLOWER VOICE: VIRTUAL ASSISTANT FOR OPEN DATA	Takahiro Kawamura, Akihiko Ohsuga	International Journal of Web & Semantic Technology (IJWesT)	◯	2013	2013	4	http://www.airccse.org/journal/ijwest/current2013.html	1					
+マンガの配列基準としてのWikipediaカテゴリの分析	小平優衣, 三原鉄也, 永森光晴, 杉本重雄	第44回ディジタル図書館ワークショップ	◯	2012	2013	3	http://dl-net.blogspot.jp/2013/02/44.html				1		
+DBpediaを利用したマンガの書誌データからの Workの同定	カブンリン, 三原鉄也, 永森光晴, 杉本重雄	第44回ディジタル図書館ワークショップ	◯	2012	2013	3	http://dl-net.blogspot.jp/2013/02/44.html				1		
+日本語Wikipediaオントロジーの構築と利用	玉川 奨, 香川 宏介, 森田 武史, 山口 高平	第29回SWO研究会	◯	2012	2013	3	http://sigswo.org/A1203_program.htm				1		
+花之声：オープンデータを用いたユーザ参加型音声アシスタントの開発	川村 隆浩, 大須賀 昭彦	第29回SWO研究会	◯	2012	2013	3	http://sigswo.org/A1203_program.htm				1		
+Creating an Extended Named Entity Dictionary from Wikipedia	Ryuichiro Higashinaka, Kugatsu Sadamitsu, Kuniko Saito, Toshiro Makino, Yoshihiro Matsuo	COLING2012	◯	2012	2012	12	https://aclweb.org/anthology/C/C12/			1			
+DashSearch LD: Exploratory Search for Linked Data	Takayuki Goto, Hideaki Takeda, Masahiro Hamasaki	JIST2012		2012	2012	12	http://link.springer.com/chapter/10.1007/978-3-642-37996-3_26			1			
+リポジトリシステムを利用した先祖由緒并一類附帳データベースの構築	林 正治, 堀井 洋, 堀井 美里, 宮下 和幸, 中野 節子, 山地 一禎, 高田 良宏	じんもんこん2012	◯	2012	2012	11	https://ipsj.ixsq.nii.ac.jp/ej/?action=pages_view_main&active_action=repository_view_main_item_detail&item_id=87042&item_no=1&page_id=13&block_id=8				1		
+Producing and Consuming Linked Open Data on Art with a Local Community	Fuyuko Matsumura, Iwao Kobayashi, Fumihiro Kato, Tetsuro Kamura, Ikki Ohmukai, Hideaki Takeda,	COLD2012		2012	2012	11	https://km.aifb.kit.edu/ws/cold2012/			1			
+落語家 LOD —名跡と人物の関係を表現するデータモデル—	本間維, 永森光晴	第28回SWO研究会	◯	2012	2012	10	http://sigswo.org/A1202_program.htm				1		
